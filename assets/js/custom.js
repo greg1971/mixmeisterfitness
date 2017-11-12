@@ -35,9 +35,10 @@
 		/* ---------------------------------------------- */
 
 		$('#intro').backstretch([
-			'assets/images/bg3.jpg',
-			'assets/images/bg4.jpg',
-			'assets/images/bg2.jpg'
+			'assets/images/mixm1.jpg',
+			'assets/images/mixm2.jpg',
+			'assets/images/mixm3.jpg',
+			'assets/images/mixm4.jpg'
 		], {duration: 3000, fade: 750});
 
 		/* ---------------------------------------------- /*

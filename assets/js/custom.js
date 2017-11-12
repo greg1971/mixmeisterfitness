@@ -35,7 +35,6 @@
 		/* ---------------------------------------------- */
 
 		$('#intro').backstretch([
-			'assets/images/mixm1.jpg',
 			'assets/images/mixm2.jpg',
 			'assets/images/mixm3.jpg',
 			'assets/images/mixm4.jpg'
